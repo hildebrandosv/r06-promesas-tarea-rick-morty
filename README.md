@@ -2,8 +2,8 @@
 ## Reto: Página Tributo | Retos Semana 1 | 20 dec 2021 | Timelines
 
 > ## Formador : John Florez | @JohnFlorez25
-> ## [WebPage] https://hildebrandosv.github.io/r01-tribute-page/
-#### [Repositorio] https://github.com/hildebrandosv/r01-tribute-page
+> ## [WebPage] https://hildebrandosv.github.io/r06-promesas-tarea-rick-morty/
+#### [Repositorio] https://github.com/hildebrandosv/r06-promesas-tarea-rick-morty
 ___
 ### --> ENUNCIADO:
 #### * Taller de GIT según el siguiente enlace:
