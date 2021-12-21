@@ -18,8 +18,11 @@ ___
 ![image](https://user-images.githubusercontent.com/73366557/146856327-10ff1ce9-bcce-4605-b1d9-4a3abe40b9e5.png)
 
 ### - Resultado:
+> Tarjetas:
 ![image](https://user-images.githubusercontent.com/73366557/146856434-edb7f34e-a133-4976-a1ae-504b6b1ba99b.png)
+> Información (overview):
 ![image](https://user-images.githubusercontent.com/73366557/146856601-e6dd8795-7246-4f34-86f6-1cce3673b1c8.png)
+> Búsqueda
 ![image](https://user-images.githubusercontent.com/73366557/146856510-9ab42c7f-adff-4551-a2c5-214cc5ffff25.png)
 
 ___
